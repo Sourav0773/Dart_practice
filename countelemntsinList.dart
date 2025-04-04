@@ -60,3 +60,4 @@ void main() {
   print("Occurrences: $maxOccurrences");
 }
 
+//how to convert a lost to map
